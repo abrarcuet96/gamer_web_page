@@ -14,7 +14,7 @@
     padding: 10px;
     cursor: pointer;
 }
-/* for all sections styles start */
+/* for all sections styles end */
 
 /* nav section style start */
 .nav-g{
@@ -76,6 +76,9 @@
     flex-direction: column;
     justify-content: center;
     align-items: right;
+    background-image: url('resources/images/Group\ 14.png');
+    background-repeat: no-repeat;
+    background-size:600px 550px;
 }
 .banner-img{
     width: 50%;

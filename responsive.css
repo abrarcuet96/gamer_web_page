@@ -1,5 +1,8 @@
 /* for tablet */
 @media screen and (max-width:768px){
+    .banner-head{
+        background-size: 400px 350px;
+    }
     .watch-now{
         top: 55px;
         left: 35px;
@@ -65,6 +68,9 @@
 }
 /* for L size mobile */
 @media screen and (max-width:426px){
+    .banner-head{
+        background-size:200px 460px;
+    }
     .nav-section{
         flex-direction: column;
         
